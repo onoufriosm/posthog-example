@@ -1,3 +1,5 @@
+'use client';
+
 export default function Error() {
     const a = () => {
         const b: any =5;
